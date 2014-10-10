@@ -12,11 +12,12 @@
 	"dependencies": {
 		"async": "~0.1.17",
 		"cookie": "~0.0.4",
+		"marked_types": "~0.0.1",
 		"ncbt": "~0.0.1",
 		"ops": "~0.0.1"
 	},
 	"engines": {
-		"node": "~0.8.0"
+		"node": ">=0.8.0"
 	},
 	"repository": {
 		"type": "git",
